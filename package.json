@@ -1,0 +1,28 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YacobLeonetti/Team-profile-generator"
+  },
+  "author": "Jacob leonetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YacobLeonetti/Team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/YacobLeonetti",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "inquirer": "^8.2.4",
+    "jest": "^28.0.3"
+  }
+}
