@@ -21,11 +21,3 @@ Built With:
 ## Tests
 To run tests, enter the command `npm run test`.
 
-## Demo
-Link to video demonstration: [Team Profile Generator Walkthrough](https://drive.google.com/file/d/1AjzPWeW6A7XJjwe4HlZhv1fmYCmTJhTl/view)
-
-![Walkthrough for the team profile generator](media/team-profile-gen-wt.gif)
-
-## Screenshots
-
-![picture of example team profile generator page](media/team-profile-snapshot.JPG)
